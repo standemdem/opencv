@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 fps = int(cap.get(cv2.CAP_PROP_FPS))
-
+a
 # Set some values for width (3)
 cap.set(3, 640)
 # Set some values for height (4)
